@@ -1,0 +1,8 @@
+=== German Credit Dataset (Random Forest) ===
+Model                   : RandomForestClassifier(n_estimators=300, class_weight='balanced')
+Features used           : 15 (first 15 of 24)
+Train samples           : 600
+Background samples      : 200
+Test samples            : 200
+Test positive predicted : 149 / 200
+Test accuracy           : 75.50%

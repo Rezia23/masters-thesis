@@ -1,0 +1,8 @@
+=== Breast Cancer Dataset (+ Useless Feature) ===
+Features used       : 11 (10 original + 1 useless)
+Useless feature     : Noise_Uniform  — U(0,1) random noise
+Train samples       : 355
+Background samples  : 100
+Test samples        : 114
+Test positive       : 73 / 114
+Test accuracy       : 96.49%

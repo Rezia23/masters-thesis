@@ -1,0 +1,11 @@
+=== Nonlinear Synthetic Dataset (Random Forest) ===
+Model               : RandomForestClassifier(n_estimators=300)
+Features used       : 7 (Cubic, Quadratic, Interaction, Linear x3, Useless)
+Total samples       : 1500
+Train samples       : 800
+Background samples  : 400
+Test samples        : 300
+Test positive       : 66 / 300
+Test accuracy       : 91.00%
+Feature importances : {'Cubic_Feat': np.float64(0.4649933218315746), 'Quadratic_Feat': np.float64(0.16967856320587626), 'Interaction_Feat': np.float64(0.10146187627621518), 'Linear_High': np.float64(0.10388377233745597), 'Linear_Mid': np.float64(0.05435539327495247), 'Linear_Low': np.float64(0.047099481682474076), 'Useless_Feat': np.float64(0.05852759139145158)}
+Note                : Feature 7 (Useless_Feat) is mathematically useless

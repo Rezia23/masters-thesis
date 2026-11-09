@@ -1,0 +1,7 @@
+=== German Credit Dataset ===
+Features used       : 15 (first 15 of 24)
+Train samples       : 600
+Background samples  : 200
+Test samples        : 200
+Test positive       : 120 / 200
+Test accuracy       : 69.00%

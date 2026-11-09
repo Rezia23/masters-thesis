@@ -1,0 +1,8 @@
+=== German Credit Dataset (+ Useless Feature) ===
+Features used       : 16 (15 original + 1 useless)
+Useless feature     : Constant_Zero — constant value 0 (zero variance)
+Train samples       : 600
+Background samples  : 200
+Test samples        : 200
+Test positive       : 132 / 200
+Test accuracy       : 70.00%

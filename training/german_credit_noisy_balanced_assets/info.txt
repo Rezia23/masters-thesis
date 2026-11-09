@@ -1,0 +1,9 @@
+=== German Credit Dataset — Noisy RF (balanced) ===
+Model                   : RandomForestClassifier(n_estimators=300, class_weight='balanced')
+Features used           : 16 (15 original + 1 useless)
+Useless feature         : Constant_Zero — constant value 0 (zero variance)
+Train samples           : 600
+Background samples      : 200
+Test samples            : 200
+Test positive predicted : 145 / 200
+Test accuracy           : 73.50%

@@ -1,0 +1,7 @@
+=== Breast Cancer Dataset ===
+Features used       : 10 (first 10 of 30)
+Train samples       : 355
+Background samples  : 100
+Test samples        : 114
+Test positive       : 76 / 114
+Test accuracy       : 95.61%

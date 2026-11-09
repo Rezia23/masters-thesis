@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Experiment outputs (regenerate with the scripts in experiments/)
+results/
+
+# Editors, tools and OS
+.claude/
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
